@@ -9,6 +9,8 @@
     <Authors>John Wason</Authors>
     <Company>Wason Technology, LLC</Company>
     <Copyright>2023</Copyright>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
