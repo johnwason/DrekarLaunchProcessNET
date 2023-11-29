@@ -11,6 +11,8 @@
     <Copyright>2023</Copyright>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/johnwason/DrekarLaunchProcessNET</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/johnwason/DrekarLaunchProcessNET</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
